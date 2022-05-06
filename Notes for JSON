@@ -1,0 +1,49 @@
+------------------
+JSON
+------------------
+(1)What is JSON?
+ans: JavaScript Object Notation (javascript syntanx)
+
+JSON is 
+.A standard,
+.Text-based form,
+.Lightweight,
+.Language independent,
+.to store and exchange data between client and server.
+
+
+
+(2)JSON Basic Structure
+.Object 
+{
+    "Key":"value",
+    ..
+    ..
+}
+JSON file er Structure jodi object er moddhe thake tahole Key er quote "" double quote moddhe nite hobe;
+value jodi string hoy tahole doube quote bah single moddhe newya jabe;
+
+
+.Array
+["Maidul Muqtadir"]
+Double quote er moddhe string nite hobe;
+
+
+
+(3).JSON Value Types
+.string
+.number (Int/float)
+.Boolean
+.Null
+.Objects
+.Array
+
+
+------------------------------------------------------------
+
+JSON Valid check browser
+https://codebeautify.org/jsonviewer
+
+JSON file valid kih nah tah janar jonno ei browser  dekha jabe;
+
+-----------------------------------------------------------

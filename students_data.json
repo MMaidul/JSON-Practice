@@ -1,0 +1,49 @@
+{
+    "students": [
+        {
+            "name": "Maidul Muqtadir",
+            "middleName": null,
+            "age": 31,
+            "cgpa": 3.44,
+            "isRegistred": true,
+            "languages": [
+                "Bengali",
+                "English",
+                "Hindi"
+            ],
+            "Friends": [
+                {
+                    "name": "Anar",
+                    "age": 25
+                },
+                {
+                    "name": "Ruhul",
+                    "age": 19
+                }
+            ]
+        },
+        {
+            "name": "Arafat Sunny",
+            "middleName": null,
+            "age": 35,
+            "cgpa": 4.44,
+            "isRegistred": true,
+            "languages": [
+                "Bengali",
+                "English",
+                "Hindi",
+                "Arabic"
+            ],
+            "Friends": [
+                {
+                    "name": "Musfiq",
+                    "age": 28
+                },
+                {
+                    "name": "Al-Amin",
+                    "age": 21
+                }
+            ]
+        }
+    ]
+}
