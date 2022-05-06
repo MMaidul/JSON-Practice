@@ -31,4 +31,12 @@ ei tah use kore complex path ber kora onk sohoz hoye jabe;
 // console.log(studentsData.students[0].languages[1]);
 
 
+//Looping JSON file
+
+for(x in data){
+    // console.log(x);
+    // console.log(data[x]);
+    // console.log(data.Students);
+}
+
 
