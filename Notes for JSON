@@ -47,3 +47,10 @@ https://codebeautify.org/jsonviewer
 JSON file valid kih nah tah janar jonno ei browser  dekha jabe;
 
 -----------------------------------------------------------
+
+Convension
+Convert into JSON format(server)
+(1)JSON.stringify(js_object)
+
+Conver into JS Object(client)
+(2)JSON.parse(json_data)

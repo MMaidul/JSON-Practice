@@ -33,10 +33,22 @@ ei tah use kore complex path ber kora onk sohoz hoye jabe;
 
 //Looping JSON file
 
-for(x in data){
+/* for(x in data){
     // console.log(x);
     // console.log(data[x]);
     // console.log(data.Students);
+} */
+
+//send data to server;
+/* const data2 = {
+    name: "Sabbir Hossain",
+    profession:"Cricketer",
+    position: "All-rounder"
 }
+
+console.log(JSON.stringify(data2)); */
+
+// receive JSON file to show client;
+// console.log(JSON.parse('{"name":"Maidul Muqtadir"}'));
 
 
